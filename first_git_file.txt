@@ -1,4 +1,5 @@
-first time using git, excited!
+First time using git, excited! update ...
+insert line here ...
 hello World!
 
 Today, when I go home after school, I see my grandparents, they come to visit me. 
